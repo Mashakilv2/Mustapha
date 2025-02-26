@@ -24,3 +24,4 @@ def generate_calendar_file():
 
 # Run the function
 generate_calendar_file()
+# Minor update for PR review
